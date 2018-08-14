@@ -8,9 +8,18 @@ Welcome to the repository for the Software metrics and credit workshop of the US
 
 ### Confirmed participants
 
-- Karthik Ram
-- Daniel S. Katz
-- Jeffrey Carver
+- Karthik Ram, University of California, Berkeley
+- Daniel S. Katz, National Center for Supercomputing Applications (NCSA)
+- Jeffrey Carver, University of Alabama
+- Alice Allen, ASCL
+- Lorraine Hwang, UC Davis
+- Carl Boettiger, University of California, Berkeley
+- Kyle Niemeyer, Orgeon State Univesity
+- Matt Jones, NCEAS
+- Neil Chue Hong, Software Sustainability Institute
+- Lars Holm Nielsen, Zenodo/CERN
+- Abigail Cabunoc Mayes, Mozilla Foundation
+
 - 
 
 ![](https://i.imgur.com/82mM6aS.png)

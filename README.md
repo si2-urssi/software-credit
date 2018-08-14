@@ -24,4 +24,4 @@ TBD
 - Arfon Smith - Space Telescope Science Institute
 
 
-[URSSI](https://i.imgur.com/wY1qvuE.png)
+![URSSI](https://i.imgur.com/wY1qvuE.png)

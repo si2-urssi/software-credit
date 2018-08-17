@@ -22,6 +22,7 @@ TBD
 - Lars Holm Nielsen, Zenodo/CERN
 - Abigail Cabunoc Mayes, Mozilla Foundation
 - Arfon Smith - Space Telescope Science Institute
+- James Howison, UT Austin
 
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

@@ -23,6 +23,6 @@ TBD
 - Abigail Cabunoc Mayes, Mozilla Foundation
 - Arfon Smith, Space Telescope Science Institute
 - James Howison, UT Austin
-
+- Patric Lopez, Science Miner
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

@@ -11,7 +11,7 @@ TBD
 ### Confirmed participants
 
 - Karthik Ram, University of California, Berkeley
-- Daniel S. Katz, National Center for Supercomputing Applications
+- Daniel S. Katz, University of Illinois Urbana-Champaign
 - Jeffrey Carver, University of Alabama
 - Alice Allen, ASCL
 - Lorraine Hwang, UC Davis
@@ -21,7 +21,7 @@ TBD
 - Neil Chue Hong, Software Sustainability Institute
 - Lars Holm Nielsen, Zenodo/CERN
 - Abigail Cabunoc Mayes, Mozilla Foundation
-- Arfon Smith - Space Telescope Science Institute
+- Arfon Smith, Space Telescope Science Institute
 - James Howison, UT Austin
 
 

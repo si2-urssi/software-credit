@@ -24,5 +24,6 @@ TBD
 - Arfon Smith, Space Telescope Science Institute
 - James Howison, UT Austin
 - Patric Lopez, Science Miner
+- Kristin Vanderbilt, Florida International University
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

@@ -25,5 +25,6 @@ TBD
 - James Howison, UT Austin
 - Patric Lopez, Science Miner
 - Kristin Vanderbilt, Florida International University
+- Nick Tierney, Monash University
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

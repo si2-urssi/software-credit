@@ -26,5 +26,7 @@ TBD
 - Patric Lopez, Science Miner
 - Kristin Vanderbilt, Florida International University
 - Nick Tierney, Monash University
+- Merce Crosas, Harvard University
+- Jessica Hausman, NASA JPL
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

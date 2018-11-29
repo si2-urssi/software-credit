@@ -28,5 +28,7 @@ TBD
 - Nick Tierney, Monash University
 - Merce Crosas, Harvard University
 - Jessica Hausman, NASA JPL
+- Josh Greenberg, Alfred P. Sloan Foundation
+
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

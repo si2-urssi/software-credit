@@ -29,6 +29,7 @@ TBD
 - Merce Crosas, Harvard University
 - Jessica Hausman, NASA JPL
 - Josh Greenberg, Alfred P. Sloan Foundation
+- Edwin Henneken, Smithsonian Astrophysical Observatory/ADS
 
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)

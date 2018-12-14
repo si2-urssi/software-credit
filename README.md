@@ -4,9 +4,26 @@ January 23-24, 2019, Santa Barbara, CA
 
 Welcome to the repository for the Software metrics and credit workshop of the US Research Software Sustainability Institute conceptualization. The schedule and plan for the workshop is still in early planning stages but please watch the repo for changes and discussions.
 
-### Agenda
+### Tentative schedule
 
-TBD
+#### 23rd
+
+| Time    | Activity                           |
+|---------|------------------------------------|
+| 830-9   | Coffee and set up                  |
+| 9-12    | Talks and discussions (Theme: TBA) |
+| 12:1-30 | Lunch                              |
+| 1:30-5  | Talks and discussions (Theme: TBA) |
+
+#### 24th
+
+| Time    | Activity                           |
+|---------|------------------------------------|
+| 830-9   | Coffee                 |
+| 9-12    | Talks and discussions (Theme: TBA) |
+| 12:1-30 | Lunch                              |
+| 1:30-5  | Talks and discussions (Theme: TBA) |
+
 
 ### Confirmed participants
 

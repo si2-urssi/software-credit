@@ -33,7 +33,7 @@ Welcome to the repository for the Software metrics and credit workshop of the US
 - Alice Allen, ASCL
 - Lorraine Hwang, UC Davis
 - Carl Boettiger, University of California, Berkeley
-- Kyle Niemeyer, Orgeon State Univesity
+- ~~Kyle Niemeyer, Orgeon State Univesity~~
 - Matt Jones, NCEAS
 - Neil Chue Hong, Software Sustainability Institute
 - Lars Holm Nielsen, Zenodo/CERN

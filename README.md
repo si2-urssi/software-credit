@@ -15,7 +15,7 @@ Welcome to the repository for the Software metrics and credit workshop of the US
 | 830-9   | Coffee and set up                  |
 | 9-12    | Talks and discussions (Theme: TBA) |
 | 12:1-30 | Lunch                              |
-| 1:30-5  | Talks and discussions (Theme: TBA) |
+| 1:30-5  | Talks and discussions (Theme: TBA). Break for 20 minutes at 3 |
 
 #### 24th
 
@@ -24,7 +24,7 @@ Welcome to the repository for the Software metrics and credit workshop of the US
 | 830-9   | Coffee                 |
 | 9-12    | Talks and discussions (Theme: TBA) |
 | 12:1-30 | Lunch                              |
-| 1:30-5  | Talks and discussions (Theme: TBA) |
+| 1:30-5  | Talks and discussions (Theme: TBA) Break for 20 minutes at 3|
 
 
 ### Confirmed participants
@@ -35,7 +35,7 @@ Welcome to the repository for the Software metrics and credit workshop of the US
 - Alice Allen, ASCL
 - Lorraine Hwang, UC Davis
 - Carl Boettiger, University of California, Berkeley
-- ~~Kyle Niemeyer, Orgeon State Univesity~~
+- ~~Kyle Niemeyer, Orgeon State Univesity~~ 😢
 - Matt Jones, NCEAS
 - Neil Chue Hong, Software Sustainability Institute
 - Lars Holm Nielsen, Zenodo/CERN

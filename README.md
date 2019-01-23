@@ -4,6 +4,8 @@ January 23-24, 2019, Santa Barbara, CA
 
 Welcome to the repository for the Software metrics and credit workshop of the US Research Software Sustainability Institute conceptualization. The schedule and plan for the workshop is still in early planning stages but please watch the repo for changes and discussions.
 
+**Notes:**  [https://docs.google.com/document/d/16JnKUFYgnMX9rW9U4PSmM6vyC08dQL3JymyJCsaR4KI/edit?usp=sharing](https://docs.google.com/document/d/16JnKUFYgnMX9rW9U4PSmM6vyC08dQL3JymyJCsaR4KI/edit?usp=sharing)
+
 ### Tentative schedule
 
 #### 23rd

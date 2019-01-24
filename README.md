@@ -48,6 +48,7 @@ Welcome to the repository for the Software metrics and credit workshop of the US
 - Jessica Hausman, NASA JPL
 - Josh Greenberg, Alfred P. Sloan Foundation
 - Edwin Henneken, Smithsonian Astrophysical Observatory/ADS
+- August Muench, American Astronomical Society
 
 
 ![URSSI](https://i.imgur.com/wY1qvuE.png)
